@@ -1,5 +1,6 @@
 .buffer
 .DS_Store
+diff.tex
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
